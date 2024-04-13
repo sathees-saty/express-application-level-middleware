@@ -4,6 +4,25 @@ Middleware function requestTime
 <html>
 Express.js Application-level middleware
 <br>
+Following is a list of possibly used middleware in Express.js app:
+<br>
+<br>
+
+Application-level middleware
+<br>
+
+Router-level middleware
+<br>
+
+Error-handling middleware
+<br>
+
+Built-in middleware
+<br>
+
+Third-party middleware
+<br>
+
 In application-level middleware in Express.js, use the app.use() method. This method takes a middleware function as its argument and registers it to be executed for every incoming request.
 <br>
 Update File: middleware1.js
